@@ -1,5 +1,6 @@
 /*
     A simple example of calling a function and outputting the result.
+    
     Page 15
 */
 
