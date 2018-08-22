@@ -1,4 +1,4 @@
 # Simple gitignore for C# in this repo
-.exe
-.dll
-.DS_Store
+*.exe
+*.dll
+*.DS_Store
