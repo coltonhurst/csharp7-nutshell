@@ -13,7 +13,7 @@ public class Point
     public int Y;
 }
 
-public stuct PointS
+public struct PointS
 {
     public int X;
     public int Y;

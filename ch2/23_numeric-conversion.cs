@@ -23,6 +23,6 @@ class Test
     long y = x;         // Implicit conversion to 64-bit integer
                         // no data is lost
 
-    short z = short(x); // Explicit conversion to 16-bit integer
+    short z = (short)x; // Explicit conversion to 16-bit integer
                         // data is lost
 }
